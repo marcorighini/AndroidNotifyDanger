@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NotifyDanger</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="start_vehicle">Start Vehicle</string>
+    <string name="danger_title">Danger near you</string>
+    <string name="danger_message">Be careful! You are in danger</string>
+    <string name="monitoring_title">Hey!! Go on</string>
+    <string name="monitoring_message">We are keeping you safe!!</string>
+</resources>
